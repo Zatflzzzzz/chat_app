@@ -28,4 +28,5 @@
 
 # Wireshark
 
-![изображение](https://github.com/user-attachments/assets/eada5b72-f8da-4c1b-b862-a460ae71cb7d)
+![изображение](https://github.com/user-attachments/assets/6ccf33ad-79ef-490b-9bf9-b351cc3f75e6)
+
